@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prvnkalavai
-- 👀 I’m interested in ... DevOps, DIY Projects, stocks & investments, automation, Financial Independence, Badminton
+- 👀 I’m interested in ... DevOps, DIY Projects, stocks & investments, automation, Badminton
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ... Automation projects
 - 📫 How to reach me ... praveenkalavai@outlook.com
